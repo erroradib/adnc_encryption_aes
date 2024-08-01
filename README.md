@@ -1,5 +1,5 @@
 # Secure Message Encryption and Decryption Scripts
-- Author: Adnan Adib
+- Author: Adnan Adib\n
 Welcome to the ultimate skibidi of encryption and decryption! 🎉 These Python scripts are here to keep your messages safe and sound, just like your favorite grimace shake from McDonald's. Using top-tier AES (Advanced Encryption Standard) and Scrypt key derivation, these scripts ensure your secrets are more secure than ever. Encrypt your messages with ease and decrypt them just as effortlessly. Perfect for all your secure communication needs. Keep your data safe, stay cool, and enjoy the tech ride! 😎🔐
 
 
